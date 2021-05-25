@@ -1,0 +1,31 @@
+body{
+	padding-top: 70px; 
+}
+
+/*.jumbotron{
+	color: #2c3e50;
+
+}*/ /*this is a blue font for the jumbotron*/
+
+/*.navbar-inverse{
+	background: #2c3e50;
+}*/
+
+/*.navbar-default{
+	background: #2c3e50;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color: white;
+}
+*/
+.navbar-default .navbar-brand {
+	color: #3d2905;
+}
+.fa-coffee{
+	color:#3d2905;
+}
+/*
+<i class="fa fa-coffee">< from this website https://fontawesome.bootstrapcheatsheets.com/#/i>
+
+content:"\f0f4";*/
